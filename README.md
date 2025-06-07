@@ -4,7 +4,7 @@ Hi 👋 My name is Mikael Lopez
 Full-Stack Software Developer
 -----------------------------
 
-i have experience in modern web technologies and softtware documentation. I specialize in building clean, scalable, and user-friendly web applications using JavaScript, Python, React, Node.js, and databases like MongoDB and SQL.
+I have experience building clean, scalable, and user-friendly web applications using modern technologies such as JavaScript, Python, React, Node.js, and databases like MongoDB and SQL. I also specialize in software documentation to ensure clear and effective communication.
 
 * 🌍  I'm based in Puerto Rico
 * ✉️  You can contact me at [mikaelfigueroa08@gmail.com](mailto:mikaelfigueroa08@gmail.com)
