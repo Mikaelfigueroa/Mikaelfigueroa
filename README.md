@@ -9,7 +9,7 @@ I have experience building clean, scalable, and user-friendly web applications u
 * 🌍  I'm based in Puerto Rico
 * ✉️  You can contact me at [mikaelfigueroa08@gmail.com](mailto:mikaelfigueroa08@gmail.com)
 * 🚀  I'm currently working on [A C# based Point of Sale System](http://github.com/mikaelfigueroa/POS)
-* 🧠  I'm learning C#
+* 🧠  I'm Currently polishing DSA Knowledge
 * 🤝  I'm open to collaborating on Projects
 
 ### Skills
